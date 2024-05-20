@@ -1,0 +1,17 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+#chart {
+  margin: auto;
+  width: 800px;
+  height: 400px;
+}
+
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+  display: inline-block;
+  width: auto;
+}
